@@ -3,7 +3,7 @@
 # * web
 # 
 # Translators:
-# Martin Trigaux <mat@odoo.com>, 2017
+# Martin Trigaux <mat@eclink.ca>, 2017
 # Kostas Goutoudis <goutoudis@gmail.com>, 2017
 # Sophia Anastasopoulos <sophiaanast1@gmail.com>, 2017
 # Stefanos Nikou <stefanos.nikou@gmail.com>, 2017
@@ -1670,8 +1670,8 @@ msgstr "Μετακίνηση Επάνω"
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:1324
 #, python-format
-msgid "My Odoo.com account"
-msgstr "Ο Odoo.com λογαριασμός μου"
+msgid "My eclink.ca account"
+msgstr "Ο eclink.ca λογαριασμός μου"
 
 #. module: web
 #. openerp-web

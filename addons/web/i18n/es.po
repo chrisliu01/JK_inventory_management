@@ -1697,8 +1697,8 @@ msgstr "Mover arriba"
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:1324
 #, python-format
-msgid "My Odoo.com account"
-msgstr "Mi cuenta Odoo.com"
+msgid "My eclink.ca account"
+msgstr "Mi cuenta eclink.ca"
 
 #. module: web
 #. openerp-web

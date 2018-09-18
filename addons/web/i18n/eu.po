@@ -1662,8 +1662,8 @@ msgstr "Mugitu gora"
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:1324
 #, python-format
-msgid "My Odoo.com account"
-msgstr "Nire Odoo.com kontua"
+msgid "My eclink.ca account"
+msgstr "Nire eclink.ca kontua"
 
 #. module: web
 #. openerp-web

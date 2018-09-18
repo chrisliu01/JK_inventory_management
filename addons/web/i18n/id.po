@@ -5,7 +5,7 @@
 # Translators:
 # Bonny Useful <bonny.useful@gmail.com>, 2017
 # Wahyu Setiawan <wahyusetiaaa@gmail.com>, 2017
-# Martin Trigaux <mat@odoo.com>, 2017
+# Martin Trigaux <mat@eclink.ca>, 2017
 # Rachmat Aditiya <raditiya@me.com>, 2017
 # Ryanto The <ry.the77@gmail.com>, 2017
 # William Surya Permana <zarambie_game@yahoo.com>, 2017
@@ -1681,8 +1681,8 @@ msgstr "Ke Atas"
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:1324
 #, python-format
-msgid "My Odoo.com account"
-msgstr "Akun Odoo.com saya"
+msgid "My eclink.ca account"
+msgstr "Akun eclink.ca saya"
 
 #. module: web
 #. openerp-web

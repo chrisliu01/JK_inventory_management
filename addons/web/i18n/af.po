@@ -1656,8 +1656,8 @@ msgstr "Skuif Op"
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:1324
 #, python-format
-msgid "My Odoo.com account"
-msgstr "My Odoo.com rekening"
+msgid "My eclink.ca account"
+msgstr "My eclink.ca rekening"
 
 #. module: web
 #. openerp-web

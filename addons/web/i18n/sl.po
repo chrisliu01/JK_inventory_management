@@ -1657,8 +1657,8 @@ msgstr ""
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:1324
 #, python-format
-msgid "My Odoo.com account"
-msgstr "Moj Odoo.com račun"
+msgid "My eclink.ca account"
+msgstr "Moj eclink.ca račun"
 
 #. module: web
 #. openerp-web

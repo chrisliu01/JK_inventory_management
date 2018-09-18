@@ -1331,7 +1331,7 @@
     <li><a href="#" data-menu="support">Support</a></li>
     <li class="divider"/>
     <li><a href="#" data-menu="settings">Preferences</a></li>
-    <li><a href="#" data-menu="account">My Odoo.com account</a></li>
+    <li><a href="#" data-menu="account">My eclink.ca account</a></li>
     <li><a href="#" data-menu="logout">Log out</a></li>
 </t>
 
@@ -1354,7 +1354,7 @@
                 <li><i class="fa fa-check"></i> Mobile support</li>
                 <li><i class="fa fa-check"></i> Upgrade to future versions</li>
                 <li><i class="fa fa-check"></i> Bugfixes guarantee</li>
-                <li><a href="http://www.odoo.com/editions" target="_blank"><i class="fa fa-plus"></i> And more</a></li>
+                <li><a href="http://www.eclink.ca/editions" target="_blank"><i class="fa fa-plus"></i> And more</a></li>
             </ul>
         </div>
         <div class="col-xs-6">
